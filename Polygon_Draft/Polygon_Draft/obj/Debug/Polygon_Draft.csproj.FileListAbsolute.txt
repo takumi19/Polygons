@@ -1,0 +1,12 @@
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Debug\Polygon_Draft.exe.config
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Debug\Polygon_Draft.exe
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Debug\Polygon_Draft.pdb
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.Properties.Resources.resources
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.exe
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.pdb
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\PolygonDraft.MainControl.resources
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Debug\MyLibrary.dll
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Debug\MyLibrary.pdb
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Debug\Polygon_Draft.csproj.CopyComplete

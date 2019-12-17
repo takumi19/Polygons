@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Release\Polygon_Draft.exe.config
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Release\Polygon_Draft.exe
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\bin\Release\Polygon_Draft.pdb
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.Form1.resources
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.Properties.Resources.resources
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.RadiusChanger.resources
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.exe
+C:\Users\Максим\source\repos\Polygon_Draft\Polygon_Draft\obj\Release\Polygon_Draft.pdb
